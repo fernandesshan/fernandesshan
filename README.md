@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shanice Fernandes (@fernandesshan)
 - 👀 I’m interested in being a full stack developer
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m exploring jobs in Python Development and Web Development
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me at fernandesshan@gmail.com
 
